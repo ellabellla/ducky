@@ -95,3 +95,6 @@ Options:
   -h, --help         Print help information
   -V, --version      Print version information
 ```
+
+## License
+This software is provided under the MIT license. Click [here](./LICENSE) to view.
