@@ -1,0 +1,3 @@
+[submodule "virt-hid"]
+	path = virt-hid
+	url = git@github.com:ellabellla/virt-hid.git
